@@ -1,21 +1,17 @@
 # \@dcrdev
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<div>
+<a href="https://github.com/dcrdev"><img align="right" src=".dcrdev/devil-horns.png" alt="Dominic Robinson" height="190" /></a>
+<div>
 
-- 15+ years of building and architecting software and pipelines.
 - Co-founder & CTO at [@kodexlabs-io](https://github.com/kodexlabs-io)
-- Generalist by nature — devops, infrastructure, full stack web, systems and data engineering
+- 15+ years of building and architecting software across the stack
+- Generalist by nature - devops, infrastructure, full stack web, systems and data engineering
 - Open source advocate
-- Ditched Windows a decade ago, haven't missed it once
+- Allergic to vendor lock-in
 - Frequently administering the antidote to Microsoft's enterprise architecture cookbook
+- Firm believer that the best code is the code you didn't have to write
+- Mass consumer of mass amounts of caffeine and bourbon
 
-</td>
-<td valign="middle" width="40%" align="center">
-
-<img src=".dcrdev/devil-horns.png" alt="devil horns" height="190" />
-
-</td>
-</tr>
-</table>
+</div>
+</div>
